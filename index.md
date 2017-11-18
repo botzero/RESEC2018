@@ -1,37 +1,84 @@
-## Welcome to GitHub Pages
+# The 1st Radical and Experiential Security Workshop (RESEC 2018)
 
-You can use the [editor on GitHub](https://github.com/botzero/RESEC2018/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Held in conjunction with [The 13th ACM ASIA Conference on Information, Computer and Communications Security (ACM ASIACCS 2018)](http://asiaccs2018.org/).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## The Focus: 
+The **RESEC** workshop focuses on practical security solutions and innovative work based on experiential studies, real datasets and deployed systems. In other words, the workshop will solicit papers that would typically fall through the cracks as too practice-focused for scientific conferences, and too theoretical for system administration forums.
 
-### Markdown
+RESEC invites the following types of studies from researchers, academics and practitioners:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Experiential**: studies that share insightful or puzzling observations, lessons learned, challenges, deployment considerations, observed trends and phenomena, and even data collection studies that can facilitate research in cybersecurity. 
 
-```markdown
-Syntax highlighted code block
+**Radical ideas**: transformational, counter-intuitive and disruptive ideas that can re-shape the foundation of enterprise security, or provide a long-term vision and historical insights. 
 
-# Header 1
-## Header 2
-### Header 3
+**Commercially-attractive**: studies and ideas that can provide or have already provided the seed for commercial, open-source products and services.
 
-- Bulleted
-- List
+**Negative results**: studies that demonstrate and investigate the failure of methods and approaches, especially when seen through a practical lense, and the lessons learned from these failures.
 
-1. Numbered
-2. List
+## The context: 
+There are many groups and entities that work on security from different perspectives: (a) academic researchers, (b) security practitioners, (c) entrepreneurs, (d) industrial researchers of companies, and (e) venture capitals (VC).
 
-**Bold** and _Italic_ and `Code` text
+There is tremendous novelty, innovation, and experience that often goes to waste because it does not cross the boundaries of these groups. Clearly, there is a booming of the cybersecurity industry, high entrepreneurial activity, a dire need of effective solutions, and a dearth of security specialists in the job market. 
 
-[Link](url) and ![Image](src)
-```
+## Topics of interest: 
+RESEC invites submissions on all aspects of enterprise security including security risks, new security designs, in the context of enterprise environments. RESEC aims to bring together researchers in both industry and academia. RESEC particularly encourages collaborative research between research teams in industry and research groups in universities.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Topics include, but are not limited to:
 
-### Jekyll Themes
+1. IoT Security
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/botzero/RESEC2018/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+2. Machine Learning in Security
 
-### Support or Contact
+3. Adversarial Machine Learning 
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+4. Underground Economy Study
+
+5. Foundations of Enterprise Security
+
+6. Lessons learned from Failed Security Practices and Case Studies in Enterprises
+
+7. Advanced persistent attacks (APT), Software Vulnerabilities, Design Flaws
+
+8. Malware Analysis, Code Analysis, and Reverse Engineering
+
+9. Mobile App Security and App Market Security
+
+10. Side Channel Attacks, Covert Channel
+
+11. Web Security, DDOS, Botnet
+
+12. Network Security, Wireless Network Security
+
+13. Intrusion Detection, Anomaly Detection, insider attacks
+
+14. Secure Multi-Party Computation, User/Company Data Privacy, Data Leakage
+
+15. Blockchain
+
+16. Secured communication and network surveillance
+
+17. Security in the new emerging ecosystem/business/applications
+
+18. Security and privacy issues related to connected vehicles
+
+The submissions will be peer-reviewed by at least three program committee members. In alignment, with the spirit of the workshop, an effort will be made to include at least one academic researcher and one industry practitioner for every paper. The workshop organizers will make acceptance decision based on the reviews provided by the program committee members. COI will be carefully handled during the reviewing process.
+
+
+## Organizing Committee: 
+
+* Zhi Xu (Palo Alto Networks, USA)
+* Tao Xie (University of Illinois Urbana-Champaign, USA)
+* Xusheng Xiao (Case Western Reserve University, USA)
+* Zhiyun Qian (University of California, Riverside, USA)
+* Michalis Faloutsos (University of California, Riverside)
+
+## TPC members:
+
+### Industry affiliated:
+TBD
+
+### University affiliated:
+TBD
+
+### High-Tech focused Venture Capitalists
+TBD
