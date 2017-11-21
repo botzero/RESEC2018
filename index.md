@@ -59,26 +59,24 @@ The submissions will be peer-reviewed by at least three program committee member
 ## TPC members:
 
 ### Industry affiliated:
-Tao Wei (Baidu Chief Security Scientist, Visiting Professor at Peking University)
-Ling Huang (CEO/Founder, Fintec.ai, adjunct professor at Institute for Interdisciplinary Information Sciences in Tsinghua University)
-Xiaoning Li (Chief security architect, alibaba cloud)
-Bo Qu (Researcher, Palo Alto Networks)
+* Tao Wei (Baidu Chief Security Scientist, Visiting Professor at Peking University)
+* Ling Huang (CEO/Founder, Fintec.ai, adjunct professor at Institute for Interdisciplinary Information Sciences in Tsinghua University)
+* Xiaoning Li (Chief security architect, alibaba cloud)
+* Bo Qu (Researcher, Palo Alto Networks)
 
 ### University affiliated:
-Xinyu Xing (Pennsylvania State University)
-Vyas Sekar (Carnegie Mellon University)
-Sencun Zhu (Pennsylvania State University)
-Yuan Tian (University of Virginia)
-Haixin Duan (Tsinghua University)
-
-
+* Xinyu Xing (Pennsylvania State University)
+* Vyas Sekar (Carnegie Mellon University)
+* Sencun Zhu (Pennsylvania State University)
+* Yuan Tian (University of Virginia)
+* Haixin Duan (Tsinghua University)
 
 ### High-Tech focused Venture Capitalists
-Shomit Ghose (Onset Ventures)
-Paul COnley (Vertical Venture Partners)
-Houman Haghighi (Qualcomm Ventures)
-Lin Xie  (HEDA Ventures)
-Jun Li (Wisemont Capital)
+* Shomit Ghose (Onset Ventures)
+* Paul COnley (Vertical Venture Partners)
+* Houman Haghighi (Qualcomm Ventures)
+* Lin Xie  (HEDA Ventures)
+* Jun Li (Wisemont Capital)
 
 
 -----------
