@@ -1,4 +1,5 @@
 # The 1st Radical and Experiential Security Workshop (RESEC 2018)
+=========================
 
 Held in conjunction with [The 13th ACM ASIA Conference on Information, Computer and Communications Security (ACM ASIACCS 2018)](http://asiaccs2018.org/).
 
@@ -43,23 +44,7 @@ Topics include, but are not limited to:
 
 9. Mobile App Security and App Market Security
 
-10. Side Channel Attacks, Covert Channel
-
-11. Web Security, DDOS, Botnet
-
-12. Network Security, Wireless Network Security
-
-13. Intrusion Detection, Anomaly Detection, insider attacks
-
-14. Secure Multi-Party Computation, User/Company Data Privacy, Data Leakage
-
-15. Blockchain
-
-16. Secured communication and network surveillance
-
-17. Security in the new emerging ecosystem/business/applications
-
-18. Security and privacy issues related to connected vehicles
+10. Web Security, DDOS, Botnet
 
 The submissions will be peer-reviewed by at least three program committee members. In alignment, with the spirit of the workshop, an effort will be made to include at least one academic researcher and one industry practitioner for every paper. The workshop organizers will make acceptance decision based on the reviews provided by the program committee members. COI will be carefully handled during the reviewing process.
 
@@ -75,10 +60,29 @@ The submissions will be peer-reviewed by at least three program committee member
 ## TPC members:
 
 ### Industry affiliated:
-TBD
+Tao Wei (Baidu Chief Security Scientist, Visiting Professor at Peking University)
+Ling Huang (CEO/Founder, Fintec.ai, adjunct professor at Institute for Interdisciplinary Information Sciences in Tsinghua University)
+Xiaoning Li (Chief security architect, alibaba cloud)
+Bo Qu (Researcher, Palo Alto Networks)
 
 ### University affiliated:
-TBD
+Xinyu Xing (Pennsylvania State University)
+Vyas Sekar (Carnegie Mellon University)
+Sencun Zhu (Pennsylvania State University)
+Yuan Tian (University of Virginia)
+Haixin Duan (Tsinghua University)
+
+
 
 ### High-Tech focused Venture Capitalists
-TBD
+Shomit Ghose (Onset Ventures)
+Paul COnley (Vertical Venture Partners)
+Houman Haghighi (Qualcomm Ventures)
+Lin Xie  (HEDA Ventures)
+Jun Li (Wisemont Capital)
+
+
+-----------
+Contact: resec.contact@gmail.com
+
+
