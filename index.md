@@ -1,5 +1,4 @@
 # The 1st Radical and Experiential Security Workshop (RESEC 2018)
-=========================
 
 Held in conjunction with [The 13th ACM ASIA Conference on Information, Computer and Communications Security (ACM ASIACCS 2018)](http://asiaccs2018.org/).
 
