@@ -62,7 +62,7 @@ The submissions will be peer-reviewed by at least three program committee member
 * Tao Wei (Baidu Chief Security Scientist, Visiting Professor at Peking University)
 * Ling Huang (CEO/Founder, Fintec.ai, adjunct professor at Institute for Interdisciplinary Information Sciences in Tsinghua University)
 * Xiaoning Li (Chief security architect, alibaba cloud)
-* Bo Qu (Researcher, Palo Alto Networks)
+* Bo Qu (Distinguished Researcher Engineer, Palo Alto Networks)
 
 ### University affiliated:
 * Xinyu Xing (Pennsylvania State University)
