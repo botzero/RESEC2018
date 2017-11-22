@@ -63,6 +63,7 @@ The submissions will be peer-reviewed by at least three program committee member
 * Ling Huang (CEO/Founder, Fintec.ai, adjunct professor at Institute for Interdisciplinary Information Sciences in Tsinghua University)
 * Xiaoning Li (Chief security architect, alibaba cloud)
 * Bo Qu (Distinguished Researcher Engineer, Palo Alto Networks)
+* Jimmy Su (Senior Director, JD.COM)
 
 ### University affiliated:
 * Xinyu Xing (Pennsylvania State University)
@@ -70,6 +71,7 @@ The submissions will be peer-reviewed by at least three program committee member
 * Sencun Zhu (Pennsylvania State University)
 * Yuan Tian (University of Virginia)
 * Haixin Duan (Tsinghua University)
+* Kai Chen (Chinese Academy of Science)
 
 ### High-Tech focused Venture Capitalists
 * Shomit Ghose (Onset Ventures)
