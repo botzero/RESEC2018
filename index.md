@@ -15,12 +15,12 @@ RESEC invites the following types of studies from researchers, academics and pra
 
 **Negative results**: studies that demonstrate and investigate the failure of methods and approaches, especially when seen through a practical lense, and the lessons learned from these failures.
 
-## The context: 
+## The Context: 
 There are many groups and entities that work on security from different perspectives: (a) academic researchers, (b) security practitioners, (c) entrepreneurs, (d) industrial researchers of companies, and (e) venture capitals (VC).
 
 There is tremendous novelty, innovation, and experience that often goes to waste because it does not cross the boundaries of these groups. Clearly, there is a booming of the cybersecurity industry, high entrepreneurial activity, a dire need of effective solutions, and a dearth of security specialists in the job market. 
 
-## Topics of interest: 
+## Topics of Interest: 
 RESEC invites submissions on all aspects of enterprise security including security risks, new security designs, in the context of enterprise environments. RESEC aims to bring together researchers in both industry and academia. RESEC particularly encourages collaborative research between research teams in industry and research groups in universities.
 
 Topics include, but are not limited to:
@@ -64,6 +64,7 @@ The submissions will be peer-reviewed by at least three program committee member
 * Xiaoning Li (Chief security architect, alibaba cloud)
 * Bo Qu (Distinguished Researcher Engineer, Palo Alto Networks)
 * Jimmy Su (Senior Director, JD.COM)
+* Song Li (Founder and CTO, NewSky Security)
 
 ### University affiliated:
 * Xinyu Xing (Pennsylvania State University)
@@ -72,6 +73,7 @@ The submissions will be peer-reviewed by at least three program committee member
 * Yuan Tian (University of Virginia)
 * Haixin Duan (Tsinghua University)
 * Kai Chen (Chinese Academy of Science)
+* Zhi Wang (Florida State University)
 
 ### High-Tech focused Venture Capitalists
 * Shomit Ghose (Onset Ventures)
@@ -80,7 +82,13 @@ The submissions will be peer-reviewed by at least three program committee member
 * Lin Xie  (HEDA Ventures)
 * Jun Li (Wisemont Capital)
 
+## Submission 
 
+### Submission Page
+TBD
+
+### Instructions for authors:
+TBD
 -----------
 Contact: resec.contact@gmail.com
 
