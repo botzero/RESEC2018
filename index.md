@@ -74,6 +74,8 @@ The submissions will be peer-reviewed by at least three program committee member
 * Haixin Duan (Tsinghua University)
 * Kai Chen (Chinese Academy of Science)
 * Zhi Wang (Florida State University)
+* Lorenzo Cavallaro (Royal Holloway, University of London)
+* Peng Liu (Pennsylvania State University)
 
 ### High-Tech focused Venture Capitalists
 * Shomit Ghose (Onset Ventures)
