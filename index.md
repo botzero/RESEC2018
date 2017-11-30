@@ -92,9 +92,9 @@ https://easychair.org/conferences/?conf=resec2018
 ### Instructions for authors:
 Technical papers submitted for RESEC are to be written in English. 
 
-* Full Papers must be at most 6 pages excluding bibliography and appendices, and at most 8 pages in total. 
+* **Full Papers** must be at most **6 pages** excluding bibliography and appendices, and at most 8 pages in total. 
 
-* Short Papers must be at most 3 pages excluding bibliography and appendices, and at most 4 pages in total. 
+* **Short Papers** must be at most **3 pages** excluding bibliography and appendices, and at most 4 pages in total. 
 
 Committee members are not obligated to read appendices, and a paper must be intelligible without the appendices. Submissions must follow the new ACM conference template (https://www.acm.org/publications/proceedings-template), which has been updated for 2017. Only pdf files will be accepted.
 
