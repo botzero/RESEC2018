@@ -87,10 +87,24 @@ The submissions will be peer-reviewed by at least three program committee member
 ## Submission 
 
 ### Submission Page
-TBD
+https://easychair.org/conferences/?conf=resec2018
 
 ### Instructions for authors:
-TBD
+Technical papers submitted for RESEC are to be written in English. 
+
+* Full Papers must be at most 6 pages excluding bibliography and appendices, and at most 8 pages in total. 
+
+* Short Papers must be at most 3 pages excluding bibliography and appendices, and at most 4 pages in total. 
+
+Committee members are not obligated to read appendices, and a paper must be intelligible without the appendices. Submissions must follow the new ACM conference template (https://www.acm.org/publications/proceedings-template), which has been updated for 2017. Only pdf files will be accepted.
+
+Submitted papers must not substantially overlap papers that have been published or are simultaneously submitted to a journal, conference or workshop. Simultaneous submission of the same work is prohibited. Authors of accepted papers must guarantee that their papers will be presented at the workshop. At least one author of the paper must be registered at the appropriate conference rate. At least one author of the paper must be registered at the appropriate conference rate. Accepted papers will be published in the ACM Digital Library.
+
+### Important Dates
+* Submissions Due: Jan 20, 2018 (GMT)
+* Notification: Mar 10, 2018
+* Camera-ready Due: Mar 31, 2018
+* Workshop: Jun 4, 2018
 
 -----------
 Contact: resec.contact@gmail.com
