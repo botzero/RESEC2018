@@ -78,9 +78,6 @@ The submissions will be peer-reviewed by at least three program committee member
 * Peng Liu (Pennsylvania State University)
 
 ### High-Tech focused Venture Capitalists
-* Shomit Ghose (Onset Ventures)
-* Paul COnley (Vertical Venture Partners)
-* Houman Haghighi (Qualcomm Ventures)
 * Lin Xie  (HEDA Ventures)
 * Jun Li (Wisemont Capital)
 
