@@ -54,7 +54,7 @@ The submissions will be peer-reviewed by at least three program committee member
 * Tao Xie (University of Illinois Urbana-Champaign, USA)
 * Xusheng Xiao (Case Western Reserve University, USA)
 * Zhiyun Qian (University of California, Riverside, USA)
-* Michalis Faloutsos (University of California, Riverside)
+* Michalis Faloutsos (University of California, Riverside, USA)
 
 ## TPC members:
 
