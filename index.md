@@ -66,7 +66,8 @@ The submissions will be peer-reviewed by at least three program committee member
 * Jimmy Su (Senior Director, JD.COM)
 * Song Li (Founder and CTO, NewSky Security)
 * Hayawardh Vijayakumar (Researcher, Samsung Research America)
-* Victor Fang （Principal Data Scientist , FireEye）
+* Victor Fang （Principal Data Scientist , FireEye)
+* Rui Wang (CTO, VeriClouds)
 
 ### University affiliated:
 * Xinyu Xing (Pennsylvania State University)
