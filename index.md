@@ -101,7 +101,7 @@ Committee members are not obligated to read appendices, and a paper must be inte
 Submitted papers must not substantially overlap papers that have been published or are simultaneously submitted to a journal, conference or workshop. Simultaneous submission of the same work is prohibited. Authors of accepted papers must guarantee that their papers will be presented at the workshop. At least one author of the paper must be registered at the appropriate conference rate. At least one author of the paper must be registered at the appropriate conference rate. Accepted papers will be published in the ACM Digital Library.
 
 ### Important Dates
-* **Submissions Due: Jan 20, 2018 (GMT)**
+* **Submissions Due: Jan 29 (Extended), 2018 (GMT)**
 * **Notification: Mar 10, 2018**
 * **Camera-ready Due: Mar 31, 2018**
 * **Workshop: Jun 4, 2018**
