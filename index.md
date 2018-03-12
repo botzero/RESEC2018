@@ -69,6 +69,7 @@ The submissions will be peer-reviewed by at least three program committee member
 * Victor Fang （Principal Data Scientist , FireEye)
 * Rui Wang (CTO, VeriClouds)
 * Tongbo Luo (Security Researcher, StackRox)
+* Tao Wan (Senior Security Researcher, Huawei Canada)
 
 ### University affiliated:
 * Xinyu Xing (Pennsylvania State University)
