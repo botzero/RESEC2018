@@ -68,6 +68,7 @@ The submissions will be peer-reviewed by at least three program committee member
 * Hayawardh Vijayakumar (Researcher, Samsung Research America)
 * Victor Fang （Principal Data Scientist , FireEye)
 * Rui Wang (CTO, VeriClouds)
+* Tongbo Luo (Security Researcher, StackRox)
 
 ### University affiliated:
 * Xinyu Xing (Pennsylvania State University)
