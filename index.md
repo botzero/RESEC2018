@@ -104,7 +104,7 @@ Submitted papers must not substantially overlap papers that have been published 
 
 ### Important Dates
 * **Submissions Due: Jan 29 (Extended), 2018 (GMT)**
-* **Notification: Mar 28, 2018**
+* **Notification: Mar 28 (Extended), 2018**
 * **Camera-ready Due: April 4, 2018**
 * **Workshop: Jun 4, 2018**
 
