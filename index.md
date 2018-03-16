@@ -70,6 +70,7 @@ The submissions will be peer-reviewed by at least three program committee member
 * Rui Wang (CTO, VeriClouds)
 * Tongbo Luo (Security Researcher, StackRox)
 * Tao Wan (Senior Security Researcher, Huawei Canada)
+* Kun Bai (Principle Research Scientist, Tencent)
 
 ### University affiliated:
 * Xinyu Xing (Pennsylvania State University)
