@@ -71,6 +71,7 @@ The submissions will be peer-reviewed by at least three program committee member
 * Tongbo Luo (Security Researcher, StackRox)
 * Tao Wan (Senior Security Researcher, Huawei Canada)
 * Kun Bai (Principle Research Scientist, Tencent)
+* Jun Wang (Sr Staff Security Researcher, Palo Alto Networks)
 
 ### University affiliated:
 * Xinyu Xing (Pennsylvania State University)
