@@ -138,6 +138,17 @@ Submitted papers must not substantially overlap papers that have been published 
 * **Unsupervised Clustering for Identification of Malicious Domain Campaigns**, Michael Weber (Palo Alto Networks), Jun Wang (Palo Alto Networks), and Yuchen Zhou (Palo Alto Networks)
 * **Detecting Data Exploits Using Low-level Hardware Information: A Time Series Approach**, Chen Liu (Clarkson University), Zhiliu Yang (Clarkson University), Zander Blasingame (Clarkson University), Gildo Torres (Clarkson University), James Bruska (Clarkson University) and Lok Yan (AIr Force Research Lab)
 * **LSTM based Self-Defending AI ChatBot Providing Anti-Phishing**, Sreewathsa Kovalluri (Amrita Vishwa Vidyapeetham), Aravind Ashok (Amrita Vishwa Vidyapeetham), Hareesh Singanamala (Amrita Vishwa Vidyapeetham), and Prabaharan Poornachandran (Amrita Vishwa Vidyapeetham)
+### 15：30 - 16：00  Coffee Break
+### 16：00 - 17：00  Session 4: Short Papers
+* **Cracking IoT Device User Account via Brute-force Attack to SMS Authentication Code**, Dong Wang (University of Science and Technology of China), Jiang Ming (UT Arlington), Ting Chen (University of Science and Technology of China), Xiaosong Zhang (University of Science and Technology of China), and Chao Wang (ADLab of Venustech)
+* **Android Plugin Becomes a Catastrophe to Android Ecosystem**, 	Cong Zheng (Palo Alto Networks), Tongbo Luo (Palo Alto Networks), Zhi Xu (Palo Alto Networks), Wenjun Hu (Palo Alto Networks), and Xin Ouyang (Palo Alto Networks)
+* **Security Vulnerability and Patch Management in Electric Utilities: A Data-Driven Malware Analysis**, Fengli Zhang (University of Arkansas, Fayetteville) and Qinghua Li (University of Arkansas, Fayetteville)
+* **On the Feasibility of Automatic Malware Family Signature Generation**, Xiao Zhang (Palo Alto Networks) and Zhi Xu (Palo Alto Networks)
+### 17：00 - 17：30  Discussion Session
+* Hosts: TBD
+
+
+
 
 
 
