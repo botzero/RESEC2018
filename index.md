@@ -122,30 +122,39 @@ Submitted papers must not substantially overlap papers that have been published 
 
 ### 10:00 - 10:20 Session 1： Threat
 * **CBTracer: Continuously Building Datasets for Binary Vulnerability and Exploit Research**, Yukun Liu (Tsinghua University), Jianwei Zhuge (Peking University), and Chao Zhang (Tsinghua University)
+
 ### 10:30 - 11:00 Coffee Break
+
 ### 11:00 - 11:30 Keynote 2
 * Speaker: **Dr. PingRong Yu (Managing Partner, [SV Tech Ventures](http://www.svtechventures.us/about-us-2/))**
   * Title: **On Starting Your Own Company**
   * Abstract: _To start a successful company is hard, and it's even harder when you do it the first time. As a venture capitalist and entrepreneur, I'll share a few things I learned that might be helpful._ 
+
 ### 11:30 - 12:30  Session 2: Mobile Security
 * **Active Authentication Experiments Using Actual Application Usage Log**, Gwonsang Ryu (Kongju National University), Sohee Park (Kongju National University), Daeseon Choi (Kongju National University), Youngsam Kim (Electronics and Telecommunications Research Institute), Seung-Hyun Kim (Electronics and Telecommunications Research Institute), Soohyung Kim (Electronics and Telecommunications Research Institute), Dowan Kim (Kongju National University) and Daeyong Kwon (Kongju National University)
 * **Identifying and Evading Android Sandbox through Usage-Profile based Fingerprints**, Valerio Costamagna (Universita degli studi di Torino), Cong Zheng (Palo Alto Networks),and Heqing Huang (IBM TJ Watson Research Center)
 * **Daemon-Guard: Towards Preventing Privilege Abuse Attacks in Android Native Daemons**, Cong Zheng (Palo Alto Networks) and Heqing Huang (IBM TJ Watson Research Center)
+
 ### 12:30 - 14:00  Lunch
+
 ### 14:00 - 14:30   Keynote 3
 * Speaker: **Jun Li (Founder and General Partner, [Wisemont Capital](http://www.wisemontcapital.com/))**
   * Title: **A Security Startup’s Guide  - from an investor’s perspective**
   * Abstract: _This talk will focus on: where are the opportunities; What to consider：5 Common mistakes to avoid; How to convince an investor to give you money: 5 important things to remember; 2018 Buzz word_
+
 ### 14:30 - 15:30  Session 3: Machine Learning in Security
 * **Unsupervised Clustering for Identification of Malicious Domain Campaigns**, Michael Weber (Palo Alto Networks), Jun Wang (Palo Alto Networks), and Yuchen Zhou (Palo Alto Networks)
 * **Detecting Data Exploits Using Low-level Hardware Information: A Time Series Approach**, Chen Liu (Clarkson University), Zhiliu Yang (Clarkson University), Zander Blasingame (Clarkson University), Gildo Torres (Clarkson University), James Bruska (Clarkson University) and Lok Yan (AIr Force Research Lab)
 * **LSTM based Self-Defending AI ChatBot Providing Anti-Phishing**, Sreewathsa Kovalluri (Amrita Vishwa Vidyapeetham), Aravind Ashok (Amrita Vishwa Vidyapeetham), Hareesh Singanamala (Amrita Vishwa Vidyapeetham), and Prabaharan Poornachandran (Amrita Vishwa Vidyapeetham)
+
 ### 15:30 - 16:00  Coffee Break
+
 ### 16:00 - 17:00  Session 4: Short Papers
 * **Cracking IoT Device User Account via Brute-force Attack to SMS Authentication Code**, Dong Wang (University of Science and Technology of China), Jiang Ming (UT Arlington), Ting Chen (University of Science and Technology of China), Xiaosong Zhang (University of Science and Technology of China), and Chao Wang (ADLab of Venustech)
 * **Android Plugin Becomes a Catastrophe to Android Ecosystem**, 	Cong Zheng (Palo Alto Networks), Tongbo Luo (Palo Alto Networks), Zhi Xu (Palo Alto Networks), Wenjun Hu (Palo Alto Networks), and Xin Ouyang (Palo Alto Networks)
 * **Security Vulnerability and Patch Management in Electric Utilities: A Data-Driven Malware Analysis**, Fengli Zhang (University of Arkansas, Fayetteville) and Qinghua Li (University of Arkansas, Fayetteville)
 * **On the Feasibility of Automatic Malware Family Signature Generation**, Xiao Zhang (Palo Alto Networks) and Zhi Xu (Palo Alto Networks)
+
 ### 17:00 - 17:30  Discussion Session
 * Hosts: TBD
 
