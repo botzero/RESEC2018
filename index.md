@@ -114,10 +114,12 @@ Submitted papers must not substantially overlap papers that have been published 
 ## Program
 
 ### 09:00 - 09:10 Workshop Opening
+
 ### 09:10 - 10:00 Keynote 1
 * Speaker: **Dr. Jae Woong Chung (CEO, [Atto Research](https://sites.google.com/a/atto-research.com/www/the-team))**
   * Title: TBD
   * Abstract: TBD
+
 ### 10:00 - 10:20 Session 1： Threat
 * **CBTracer: Continuously Building Datasets for Binary Vulnerability and Exploit Research**, Yukun Liu (Tsinghua University), Jianwei Zhuge (Peking University), and Chao Zhang (Tsinghua University)
 ### 10:30 - 11:00 Coffee Break
