@@ -117,8 +117,8 @@ Submitted papers must not substantially overlap papers that have been published 
 
 ### 09:10 - 10:00 Keynote 1
 * Speaker: **Dr. Jae Woong Chung (CEO, [Atto Research](https://sites.google.com/a/atto-research.com/www/the-team))**
-  * Title: TBD
-  * Abstract: TBD
+  * Title: Being the Baby CEO
+  * Abstract: This talk is mainly about my personal struggles to switch from an allegedly proud engineer to a baby ceo who lacks at many things. More details will be updated.
 
 ### 10:00 - 10:20 Session 1： Threat
 * **CBTracer: Continuously Building Datasets for Binary Vulnerability and Exploit Research**, Yukun Liu (Tsinghua University), Jianwei Zhuge (Peking University), and Chao Zhang (Tsinghua University)
